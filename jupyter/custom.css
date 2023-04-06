@@ -1,0 +1,36 @@
+.container {
+  width: 95% !important;
+}
+
+.CodeMirror pre {
+  font-family: Ubuntu Mono !important;
+  font-size: 15pt !important;
+  line-height: 110% !important;
+}
+
+div.cell.selected {
+  border-left-width: 1px !important;
+}
+
+div.output_area pre {
+  font-family: Ubuntu Mono !important;
+  font-size: 15pt !important;
+  line-height: 110% !important;
+}
+
+div.text_cell_render {
+  font-family: Ubuntu !important;
+  font-size: 12pt !important;
+}
+
+div.prompt {
+  font-family: Ubuntu Mono !important;
+  font-size: 14pt !important;
+  line-height: 110% !important;
+}
+
+div.completions selected {
+  font-family: Ubuntu Mono !important;
+  font-size: 14 !important;
+  line-height: 110% !important;
+}
